@@ -4,4 +4,4 @@
 - Install ROS indigo
 - Install OKVIS
 - Install many dependcies of OKVIS and ROS
-  - (See README of OKVIS and package.xml of corresponding ROS node)
+  (See README of OKVIS and package.xml of corresponding ROS node)
