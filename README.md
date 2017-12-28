@@ -3,4 +3,5 @@
 ## If you want to run this program,you should:
 - Install ROS indigo
 - Install OKVIS
-- Install many dependcies of OKVIS and ROS(README of OKVIS and package.xml of corresponding ROS node)
+- Install many dependcies of OKVIS and ROS
+- - (See README of OKVIS and package.xml of corresponding ROS node)
