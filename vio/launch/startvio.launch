@@ -1,0 +1,7 @@
+<launch>
+	<!--  start tf static node     /-->
+	<node pkg="tf" type="static_transform_publisher" name="link_broadcaster" args="0 0 0 0 0 0 imu camera" />
+	<!--  start vio node     /-->
+	<!-- node pkg="vio"          type="vionode"           name="vionode"         args="/home/ubuntu/projects/vioproject/src/vio/config/config_fpga_p2_euroc.yaml">
+	</node-->
+</launch>
